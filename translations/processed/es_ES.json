@@ -1,0 +1,62 @@
+{
+  "es_ES": {
+    "fWV5y": "Abrir menú de idioma",
+    "2levAt": "Inicio",
+    "WPcbO": "Parámetros",
+    "nQt9e": "Plurales",
+    "3ZG7mL": "Abrir el menú principal",
+    "3JtE6U": "Idiomas",
+    "vZdwT": "FBT en Next.js",
+    "18aNhk": "FBT es un poderoso marco de internacionalización desarrollado en Facebook. El objetivo de este sitio es mostrar cómo instalar, configurar y usar FBT en un proyecto Next.js con Typescript.",
+    "41i9X4": "Instalar",
+    "5hxtc": "Por favor, lea el archivo {=m2} de este proyecto.",
+    "1imlra": "README",
+    "2yQQ5F": "Demostración",
+    "LG49z": "Use elementos en el menú de navegación para ver FBT en acción. No olvide cambiar el idioma haciendo clic en el icono del globo terráqueo en la esquina superior derecha.",
+    "hlbBo": "Siéntase libre de mejorar la traducción actual o añadir un nuevo idioma en {=m1}.",
+    "1F8q4m": "Proyecto Crowdin",
+    "404EjZ": "Más información",
+    "x0QI6": "Código fuente de esta página",
+    "1vKIL6": "Deep dive into FBT",
+    "3tefiD": "Página de inicio FBT",
+    "2Ys1zO": "FBT código fuente",
+    "1z6MRO": "Parámetros",
+    "2RWB4S": "Parámetros genéricos",
+    "tXCYg": "El artículo \"{itemName}\" fue añadido al carrito de compras",
+    "OOFSr": "Nombre del artículo",
+    "3kVy91": "Dale un nombre al artículo...",
+    "3z2zUG": "Nombres y pronombres",
+    "3Li2Bl": {
+      "*": {
+        "1": "{customerName} está esperando su paquete",
+        "2": "{customerName} está esperando su paquete",
+        "*": "{customerName} está esperando su paquete"
+      }
+    },
+    "3ZGdKp": "Nombre del cliente",
+    "2YOZKn": "Dale un nombre al cliente...",
+    "3RXOzu": "Género",
+    "ak0W0": "Hombre",
+    "42o6xO": "Mujer",
+    "IeY3V": "Desconocido",
+    "FUVdr": "Más información acerca de este rasgo",
+    "13OkVo": "Documentos oficiales sobre {=m2} y {=m4}",
+    "2n6x1E": "Parámetros",
+    "PvPov": "Pronombres",
+    "3PWgpp": "{=m0}, {=m2} y {=m4} en el artículo \"FBT deep dive\"",
+    "4i4aX": "Parámetros genéricos",
+    "4gMIBI": "Parámetros de nombre",
+    "EWS65": "Pronombres",
+    "4f3Bia": "Plurales",
+    "3gwpdC": "No hay ningún artículo en el carrito de compras",
+    "3fbubu": {
+      "*": "Hay {number} artículos en tu carrito de compras",
+      "_1": "Hay 1 artículo en tu carrito de compras"
+    },
+    "4oNjUp": "Añadir al carrito",
+    "1GYzOX": "{=m0} en el artículo \"FBT deep dive\"",
+    "3sMwhg": "Plurales",
+    "3kw4zA": "Documentos oficiales sobre {=m2}",
+    "wnck3": "Plurales"
+  }
+}

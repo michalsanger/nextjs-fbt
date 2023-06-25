@@ -1,0 +1,62 @@
+{
+  "en_US": {
+    "fWV5y": "Open language menu",
+    "2levAt": "Home",
+    "WPcbO": "Parameters",
+    "nQt9e": "Plurals",
+    "3ZG7mL": "Open main menu",
+    "3JtE6U": "Languages",
+    "vZdwT": "FBT in Next.js",
+    "18aNhk": "FBT is a powerfull internationalization framework developed in Facebook. The goal of this site is to show how to install, configure and use FBT in a Next.js project with Typescript.",
+    "41i9X4": "Install",
+    "5hxtc": "Please read the {=m2} file of this project.",
+    "1imlra": "README",
+    "2yQQ5F": "Demo",
+    "LG49z": "Use items in navigation menu to see FBT in action. Don't forget to change the language by clicking on the globe icon in upper right corner.",
+    "hlbBo": "Feel free to improve the current translation or add a new language in {=m1}.",
+    "1F8q4m": "Crowdin project",
+    "404EjZ": "More info",
+    "x0QI6": "Source code of this page",
+    "1vKIL6": "Deep dive into FBT",
+    "3tefiD": "FBT homepage",
+    "2Ys1zO": "FBT source code",
+    "1z6MRO": "Parameters",
+    "2RWB4S": "Generic parameters",
+    "tXCYg": "The item \"{itemName}\" was added into shopping cart",
+    "OOFSr": "Item name",
+    "3kVy91": "Give the item some name...",
+    "3z2zUG": "Name parameters with pronoun",
+    "3Li2Bl": {
+      "*": {
+        "1": "{customerName} is awaiting her package",
+        "2": "{customerName} is awaiting his package",
+        "*": "{customerName} is awaiting their package"
+      }
+    },
+    "3ZGdKp": "Customer name",
+    "2YOZKn": "Give the customer some name...",
+    "3RXOzu": "Sex",
+    "ak0W0": "Male",
+    "42o6xO": "Female",
+    "IeY3V": "Unknown",
+    "FUVdr": "More info about this feature",
+    "13OkVo": "Official docs about {=m2} and {=m4}",
+    "2n6x1E": "Params",
+    "PvPov": "Pronouns",
+    "3PWgpp": "{=m0}, {=m2} and {=m4} in FBT deep dive article",
+    "4i4aX": "Generic parameters",
+    "4gMIBI": "Name parameters",
+    "EWS65": "Pronouns",
+    "4f3Bia": "Plurals",
+    "3gwpdC": "There is no item in the cart",
+    "3fbubu": {
+      "*": "There are {number} items in your shopping cart",
+      "_1": "There is 1 item in your shopping cart"
+    },
+    "4oNjUp": "Add to cart",
+    "1GYzOX": "{=m0} in FBT deep dive article",
+    "3sMwhg": "Plurals",
+    "3kw4zA": "Official docs about {=m2}",
+    "wnck3": "Plurals"
+  }
+}

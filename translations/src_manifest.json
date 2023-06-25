@@ -1,0 +1,9 @@
+{
+  "translations/enum_manifest.json": [
+    "src/components/LanguageMenu.tsx",
+    "src/components/Menu.tsx",
+    "src/pages/index.tsx",
+    "src/pages/parameters.tsx",
+    "src/pages/plurals.tsx"
+  ]
+}

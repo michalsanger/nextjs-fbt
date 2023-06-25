@@ -1,0 +1,525 @@
+{
+  "fb-locale": "es_ES",
+  "translations": {
+    "crI9gT2EdNV+mhv4K4edsw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Abrir menú de idioma",
+          "variations": []
+        }
+      ]
+    },
+    "AgAyCUB3Re1YjbeK5f1dkg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Inicio",
+          "variations": []
+        }
+      ]
+    },
+    "TsOj0iXGfNAy+nMCojiaXg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros",
+          "variations": []
+        }
+      ]
+    },
+    "Sx2GQHA+yFzaSztrs4xd3g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurales",
+          "variations": []
+        }
+      ]
+    },
+    "O4Bdy9aZPCzcwLm4iB/UAQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Abrir el menú principal",
+          "variations": []
+        }
+      ]
+    },
+    "3aF5BEM+q0U7fjcIXtoeig==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Idiomas",
+          "variations": []
+        }
+      ]
+    },
+    "1ZAh+hy0gkEKGk0l2myiBQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "FBT en Next.js",
+          "variations": []
+        }
+      ]
+    },
+    "/Tgfw8qI4ElgGDkr+EeEIg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "FBT es un poderoso marco de internacionalización desarrollado en Facebook. El objetivo de este sitio es mostrar cómo instalar, configurar y usar FBT en un proyecto Next.js con Typescript.",
+          "variations": []
+        }
+      ]
+    },
+    "yHUHwUcJ7WyS4WAIxi/qyg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Instalar",
+          "variations": []
+        }
+      ]
+    },
+    "+l42Qxcwv8Gr3jdc20yXLA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Por favor, lea el archivo {=README} de este proyecto.",
+          "variations": []
+        }
+      ]
+    },
+    "D1xXG4RYaWvbe10Pmd9SvA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "README",
+          "variations": []
+        }
+      ]
+    },
+    "0sN33h0pMB2BosT8RCtaIQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Demostración",
+          "variations": []
+        }
+      ]
+    },
+    "7bpKdPwm4jjb7OxZclBDrw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Use elementos en el menú de navegación para ver FBT en acción. No olvide cambiar el idioma haciendo clic en el icono del globo terráqueo en la esquina superior derecha.",
+          "variations": []
+        }
+      ]
+    },
+    "iaAJg//A4DrpGzSSRllDRA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Siéntase libre de mejorar la traducción actual o añadir un nuevo idioma en {=Crowdin project}.",
+          "variations": []
+        }
+      ]
+    },
+    "MU0UOBV75+krm+yVwrjHfA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Proyecto Crowdin",
+          "variations": []
+        }
+      ]
+    },
+    "oEGGyJolizHFP4n5AoNuWA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Más información",
+          "variations": []
+        }
+      ]
+    },
+    "dhmCtw6l1+sXHGgbUex7Bg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Código fuente de esta página",
+          "variations": []
+        }
+      ]
+    },
+    "0CCkgmeOmdtkBPApLw5fQg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Deep dive into FBT",
+          "variations": []
+        }
+      ]
+    },
+    "ZaCoCoeXIg4+d/VUsXGsnw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Página de inicio FBT",
+          "variations": []
+        }
+      ]
+    },
+    "W5AqqokMbn4PYvUo2+N3iA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "FBT código fuente",
+          "variations": []
+        }
+      ]
+    },
+    "nQ2b21R+cds3L+I+9hbSGg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros",
+          "variations": []
+        }
+      ]
+    },
+    "Yw/zjhtEuZClLl4MF8SWLA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros genéricos",
+          "variations": []
+        }
+      ]
+    },
+    "4fpePMThgAW3hwRw3OgENw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "El artículo \"{itemName}\" fue añadido al carrito de compras",
+          "variations": []
+        }
+      ]
+    },
+    "HidrdazeKx7pjF/xLJ8V/g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Nombre del artículo",
+          "variations": []
+        }
+      ]
+    },
+    "B259IaEabarrIgWJxOPfQQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Dale un nombre al artículo...",
+          "variations": []
+        }
+      ]
+    },
+    "oIkPIQ1swaLQ+uPwGgcyIg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Nombres y pronombres",
+          "variations": []
+        }
+      ]
+    },
+    "wD0D0EPV/lcrB98PJHIZPg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} está esperando su paquete",
+          "variations": []
+        }
+      ]
+    },
+    "R/+TTfHaIQkc+vMijx8HQg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} está esperando su paquete",
+          "variations": []
+        }
+      ]
+    },
+    "pDaJHHYOWYcCyp9LmO5utQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} está esperando su paquete",
+          "variations": []
+        }
+      ]
+    },
+    "dO060pO2VkQt3novEGpmfA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Nombre del cliente",
+          "variations": []
+        }
+      ]
+    },
+    "jsl9rgAuHF6Cu36fT7hJEw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Dale un nombre al cliente...",
+          "variations": []
+        }
+      ]
+    },
+    "EEl+2vEqsAmLpU5o9l7X+g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Género",
+          "variations": []
+        }
+      ]
+    },
+    "B0PcZsG2IS21xdR4E8YENQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Hombre",
+          "variations": []
+        }
+      ]
+    },
+    "3iU8L5FVtt9etM/PU75Omw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Mujer",
+          "variations": []
+        }
+      ]
+    },
+    "VfvDibV5l6XEFe0TgFTngw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Desconocido",
+          "variations": []
+        }
+      ]
+    },
+    "QE/yyCeP1wLJz2eiJpkrsw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Más información acerca de este rasgo",
+          "variations": []
+        }
+      ]
+    },
+    "tnKqn9/uRFvY22YOgJvuQQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Documentos oficiales sobre {=Params} y {=Pronouns}",
+          "variations": []
+        }
+      ]
+    },
+    "RKdoiZFibdvS6x8KA3CZDQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros",
+          "variations": []
+        }
+      ]
+    },
+    "2AG+cAjtgVmnSDTUgoDcZg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Pronombres",
+          "variations": []
+        }
+      ]
+    },
+    "69tqAX/Sy2JrUAfDGl/0lQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{=Generic parameters}, {=Name parameters} y {=Pronouns} en el artículo \"FBT deep dive\"",
+          "variations": []
+        }
+      ]
+    },
+    "tHrvAAMBPOurJOCia3JLWA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros genéricos",
+          "variations": []
+        }
+      ]
+    },
+    "N0+EMgAb77FuLAO+c/yPhw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parámetros de nombre",
+          "variations": []
+        }
+      ]
+    },
+    "qy5OuoIf6pOyyAQ74A+ljA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Pronombres",
+          "variations": []
+        }
+      ]
+    },
+    "+xpm+JqBytb8OP00Tw1i9w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurales",
+          "variations": []
+        }
+      ]
+    },
+    "Rjw6U4fcatwLvekJnFk9Pw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "No hay ningún artículo en el carrito de compras",
+          "variations": []
+        }
+      ]
+    },
+    "lgrhzbC/WKfneAaDmwFIkA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Hay {number} artículos en tu carrito de compras",
+          "variations": []
+        }
+      ]
+    },
+    "3qasRyDuwO5KBqvyJ1of0w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Hay 1 artículo en tu carrito de compras",
+          "variations": []
+        }
+      ]
+    },
+    "d3vA1ftP6gPK+DtZeO+hFQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Añadir al carrito",
+          "variations": []
+        }
+      ]
+    },
+    "EzjraO23uyA591dGtOY0sQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{=Plurals} en el artículo \"FBT deep dive\"",
+          "variations": []
+        }
+      ]
+    },
+    "FPKx10AkFSMKu+6F9ffm0A==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurales",
+          "variations": []
+        }
+      ]
+    },
+    "CssC6qGroykkOGlVJ9kX+w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Documentos oficiales sobre {=Plurals}",
+          "variations": []
+        }
+      ]
+    },
+    "Qis3+xS14DAO2WncJpjC+A==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurales",
+          "variations": []
+        }
+      ]
+    }
+  }
+}

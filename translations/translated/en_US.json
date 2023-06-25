@@ -1,0 +1,25 @@
+{
+  "fb-locale": "en_US",
+  "translations": {
+    "lgrhzbC/WKfneAaDmwFIkA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "There are {number} items in your shopping cart",
+          "variations": []
+        }
+      ]
+    },
+    "3qasRyDuwO5KBqvyJ1of0w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "There is 1 item in your shopping cart",
+          "variations": []
+        }
+      ]
+    }
+  }
+}

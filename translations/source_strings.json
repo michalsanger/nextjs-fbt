@@ -1,0 +1,1163 @@
+{
+  "phrases": [
+    {
+      "hashToLeaf": {
+        "crI9gT2EdNV+mhv4K4edsw==": {
+          "text": "Open language menu",
+          "desc": "Screen reader hint"
+        }
+      },
+      "filepath": "src/components/LanguageMenu.tsx",
+      "line_beg": 27,
+      "col_beg": 10,
+      "line_end": 27,
+      "col_end": 65,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Screen reader hint",
+          "text": "Open language menu"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "AgAyCUB3Re1YjbeK5f1dkg==": {
+          "text": "Home",
+          "desc": "Navigation item"
+        }
+      },
+      "filepath": "src/components/Menu.tsx",
+      "line_beg": 15,
+      "col_beg": 12,
+      "line_end": 15,
+      "col_end": 42,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Navigation item",
+          "text": "Home"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "TsOj0iXGfNAy+nMCojiaXg==": {
+          "text": "Parameters",
+          "desc": "Navigation item"
+        }
+      },
+      "filepath": "src/components/Menu.tsx",
+      "line_beg": 16,
+      "col_beg": 12,
+      "line_end": 16,
+      "col_end": 48,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Navigation item",
+          "text": "Parameters"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "Sx2GQHA+yFzaSztrs4xd3g==": {
+          "text": "Plurals",
+          "desc": "Navigation item"
+        }
+      },
+      "filepath": "src/components/Menu.tsx",
+      "line_beg": 17,
+      "col_beg": 12,
+      "line_end": 17,
+      "col_end": 45,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Navigation item",
+          "text": "Plurals"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "O4Bdy9aZPCzcwLm4iB/UAQ==": {
+          "text": "Open main menu",
+          "desc": "Screen reader hint"
+        }
+      },
+      "filepath": "src/components/Menu.tsx",
+      "line_beg": 55,
+      "col_beg": 18,
+      "line_end": 55,
+      "col_end": 69,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Screen reader hint",
+          "text": "Open main menu"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "3aF5BEM+q0U7fjcIXtoeig==": {
+          "text": "Languages",
+          "desc": "Mobile language menu heading"
+        }
+      },
+      "filepath": "src/components/Menu.tsx",
+      "line_beg": 92,
+      "col_beg": 18,
+      "line_end": 92,
+      "col_end": 74,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Mobile language menu heading",
+          "text": "Languages"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "1ZAh+hy0gkEKGk0l2myiBQ==": {
+          "text": "FBT in Next.js",
+          "desc": "Title of the index page"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 8,
+      "col_beg": 19,
+      "line_end": 8,
+      "col_end": 67,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Title of the index page",
+          "text": "FBT in Next.js"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "/Tgfw8qI4ElgGDkr+EeEIg==": {
+          "text": "FBT is a powerfull internationalization framework developed in Facebook. The goal of this site is to show how to install, configure and use FBT in a Next.js project with Typescript.",
+          "desc": "Paragraph on the main page"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 10,
+      "col_beg": 8,
+      "line_end": 14,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Paragraph on the main page",
+          "text": "FBT is a powerfull internationalization framework developed in Facebook. The goal of this site is to show how to install, configure and use FBT in a Next.js project with Typescript."
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "yHUHwUcJ7WyS4WAIxi/qyg==": {
+          "text": "Install",
+          "desc": "Heading on a homepage"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 18,
+      "col_beg": 8,
+      "line_end": 18,
+      "col_end": 55,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Heading on a homepage",
+          "text": "Install"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "+l42Qxcwv8Gr3jdc20yXLA==": {
+          "text": "Please read the {=README} file of this project.",
+          "desc": "Paragraph on the main page"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 21,
+      "col_beg": 8,
+      "line_end": 27,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Paragraph on the main page",
+          "text": "Please read the {=README} file of this project.",
+          "tokenAliases": {
+            "=README": "=m2"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "D1xXG4RYaWvbe10Pmd9SvA==": {
+          "text": "README",
+          "desc": "In the phrase: \"Please read the {=README} file of this project.\""
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 23,
+      "col_beg": 10,
+      "line_end": 25,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"Please read the {=README} file of this project.\"",
+          "text": "README"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "0sN33h0pMB2BosT8RCtaIQ==": {
+          "text": "Demo",
+          "desc": "Heading on a homepage"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 31,
+      "col_beg": 8,
+      "line_end": 31,
+      "col_end": 52,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Heading on a homepage",
+          "text": "Demo"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "7bpKdPwm4jjb7OxZclBDrw==": {
+          "text": "Use items in navigation menu to see FBT in action. Don't forget to change the language by clicking on the globe icon in upper right corner.",
+          "desc": "Paragraph on the main page"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 34,
+      "col_beg": 8,
+      "line_end": 38,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Paragraph on the main page",
+          "text": "Use items in navigation menu to see FBT in action. Don't forget to change the language by clicking on the globe icon in upper right corner."
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "iaAJg//A4DrpGzSSRllDRA==": {
+          "text": "Feel free to improve the current translation or add a new language in {=Crowdin project}.",
+          "desc": "Paragraph on the main page"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 41,
+      "col_beg": 8,
+      "line_end": 46,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Paragraph on the main page",
+          "text": "Feel free to improve the current translation or add a new language in {=Crowdin project}.",
+          "tokenAliases": {
+            "=Crowdin project": "=m1"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "MU0UOBV75+krm+yVwrjHfA==": {
+          "text": "Crowdin project",
+          "desc": "In the phrase: \"Feel free to improve the current translation or add a new language in {=Crowdin project}.\""
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 43,
+      "col_beg": 10,
+      "line_end": 45,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"Feel free to improve the current translation or add a new language in {=Crowdin project}.\"",
+          "text": "Crowdin project"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "oEGGyJolizHFP4n5AoNuWA==": {
+          "text": "More info",
+          "desc": "Infobox heading"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 49,
+      "col_beg": 22,
+      "line_end": 49,
+      "col_end": 57,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Infobox heading",
+          "text": "More info"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "dhmCtw6l1+sXHGgbUex7Bg==": {
+          "text": "Source code of this page",
+          "desc": "Text of a link in infobox"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 51,
+      "col_beg": 10,
+      "line_end": 51,
+      "col_end": 78,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Text of a link in infobox",
+          "text": "Source code of this page"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "0CCkgmeOmdtkBPApLw5fQg==": {
+          "text": "Deep dive into FBT",
+          "desc": "Link on a homepage"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 54,
+      "col_beg": 10,
+      "line_end": 54,
+      "col_end": 65,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Link on a homepage",
+          "text": "Deep dive into FBT"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "ZaCoCoeXIg4+d/VUsXGsnw==": {
+          "text": "FBT homepage",
+          "desc": "Link on a homepage"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 58,
+      "col_beg": 10,
+      "line_end": 58,
+      "col_end": 59,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Link on a homepage",
+          "text": "FBT homepage"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "W5AqqokMbn4PYvUo2+N3iA==": {
+          "text": "FBT source code",
+          "desc": "Link on a homepage"
+        }
+      },
+      "filepath": "src/pages/index.tsx",
+      "line_beg": 62,
+      "col_beg": 10,
+      "line_end": 62,
+      "col_end": 62,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Link on a homepage",
+          "text": "FBT source code"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "nQ2b21R+cds3L+I+9hbSGg==": {
+          "text": "Parameters",
+          "desc": "Title of the parameters page"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 16,
+      "col_beg": 19,
+      "line_end": 16,
+      "col_end": 68,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Title of the parameters page",
+          "text": "Parameters"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "Yw/zjhtEuZClLl4MF8SWLA==": {
+          "text": "Generic parameters",
+          "desc": "Subtitle in Parameters page"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 18,
+      "col_beg": 8,
+      "line_end": 18,
+      "col_end": 72,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Subtitle in Parameters page",
+          "text": "Generic parameters"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "4fpePMThgAW3hwRw3OgENw==": {
+          "text": "The item \"{itemName}\" was added into shopping cart",
+          "desc": "Item added into cart info message"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 21,
+      "col_beg": 8,
+      "line_end": 25,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Item added into cart info message",
+          "text": "The item \"{itemName}\" was added into shopping cart"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "HidrdazeKx7pjF/xLJ8V/g==": {
+          "text": "Item name",
+          "desc": "Label for item name input"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 29,
+      "col_beg": 15,
+      "line_end": 29,
+      "col_end": 60,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Label for item name input",
+          "text": "Item name"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "B259IaEabarrIgWJxOPfQQ==": {
+          "text": "Give the item some name...",
+          "desc": "Placeholder in item name input"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 34,
+      "col_beg": 23,
+      "line_end": 37,
+      "col_end": 11,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Placeholder in item name input",
+          "text": "Give the item some name..."
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "oIkPIQ1swaLQ+uPwGgcyIg==": {
+          "text": "Name parameters with pronoun",
+          "desc": "Subtitle in Parameters page"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 44,
+      "col_beg": 8,
+      "line_end": 46,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Subtitle in Parameters page",
+          "text": "Name parameters with pronoun"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "wD0D0EPV/lcrB98PJHIZPg==": {
+          "text": "{customerName} is awaiting her package",
+          "desc": "Customer awaiting package info message"
+        },
+        "R/+TTfHaIQkc+vMijx8HQg==": {
+          "text": "{customerName} is awaiting his package",
+          "desc": "Customer awaiting package info message"
+        },
+        "pDaJHHYOWYcCyp9LmO5utQ==": {
+          "text": "{customerName} is awaiting their package",
+          "desc": "Customer awaiting package info message"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 49,
+      "col_beg": 8,
+      "line_end": 55,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "*": {
+            "1": {
+              "desc": "Customer awaiting package info message",
+              "text": "{customerName} is awaiting her package"
+            },
+            "2": {
+              "desc": "Customer awaiting package info message",
+              "text": "{customerName} is awaiting his package"
+            },
+            "*": {
+              "desc": "Customer awaiting package info message",
+              "text": "{customerName} is awaiting their package"
+            }
+          }
+        },
+        "m": [
+          {
+            "token": "customerName",
+            "type": 1
+          },
+          null
+        ]
+      }
+    },
+    {
+      "hashToLeaf": {
+        "dO060pO2VkQt3novEGpmfA==": {
+          "text": "Customer name",
+          "desc": "Label for customer name input"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 58,
+      "col_beg": 25,
+      "line_end": 58,
+      "col_end": 78,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Label for customer name input",
+          "text": "Customer name"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "jsl9rgAuHF6Cu36fT7hJEw==": {
+          "text": "Give the customer some name...",
+          "desc": "Placeholder in customer name input"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 61,
+      "col_beg": 25,
+      "line_end": 64,
+      "col_end": 13,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Placeholder in customer name input",
+          "text": "Give the customer some name..."
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "EEl+2vEqsAmLpU5o9l7X+g==": {
+          "text": "Sex",
+          "desc": "Label for customer sex select"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 70,
+      "col_beg": 25,
+      "line_end": 70,
+      "col_end": 68,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Label for customer sex select",
+          "text": "Sex"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "B0PcZsG2IS21xdR4E8YENQ==": {
+          "text": "Male",
+          "desc": "Option in customer sex select"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 79,
+      "col_beg": 14,
+      "line_end": 79,
+      "col_end": 66,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Option in customer sex select",
+          "text": "Male"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "3iU8L5FVtt9etM/PU75Omw==": {
+          "text": "Female",
+          "desc": "Option in customer sex select"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 82,
+      "col_beg": 14,
+      "line_end": 82,
+      "col_end": 68,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Option in customer sex select",
+          "text": "Female"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "VfvDibV5l6XEFe0TgFTngw==": {
+          "text": "Unknown",
+          "desc": "Option in customer sex select"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 85,
+      "col_beg": 14,
+      "line_end": 85,
+      "col_end": 69,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Option in customer sex select",
+          "text": "Unknown"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "QE/yyCeP1wLJz2eiJpkrsw==": {
+          "text": "More info about this feature",
+          "desc": "Infobox heading"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 91,
+      "col_beg": 22,
+      "line_end": 91,
+      "col_end": 76,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Infobox heading",
+          "text": "More info about this feature"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "dhmCtw6l1+sXHGgbUex7Bg==": {
+          "text": "Source code of this page",
+          "desc": "Text of a link in infobox"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 93,
+      "col_beg": 10,
+      "line_end": 93,
+      "col_end": 78,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Text of a link in infobox",
+          "text": "Source code of this page"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "tnKqn9/uRFvY22YOgJvuQQ==": {
+          "text": "Official docs about {=Params} and {=Pronouns}",
+          "desc": "Text of a link in infobox"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 96,
+      "col_beg": 8,
+      "line_end": 103,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Text of a link in infobox",
+          "text": "Official docs about {=Params} and {=Pronouns}",
+          "tokenAliases": {
+            "=Params": "=m2",
+            "=Pronouns": "=m4"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "RKdoiZFibdvS6x8KA3CZDQ==": {
+          "text": "Params",
+          "desc": "In the phrase: \"Official docs about {=Params} and {=Pronouns}\""
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 98,
+      "col_beg": 10,
+      "line_end": 98,
+      "col_end": 80,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"Official docs about {=Params} and {=Pronouns}\"",
+          "text": "Params"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "2AG+cAjtgVmnSDTUgoDcZg==": {
+          "text": "Pronouns",
+          "desc": "In the phrase: \"Official docs about {=Params} and {=Pronouns}\""
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 100,
+      "col_beg": 10,
+      "line_end": 102,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"Official docs about {=Params} and {=Pronouns}\"",
+          "text": "Pronouns"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "69tqAX/Sy2JrUAfDGl/0lQ==": {
+          "text": "{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article",
+          "desc": "Links to other article in infobox"
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 105,
+      "col_beg": 8,
+      "line_end": 118,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Links to other article in infobox",
+          "text": "{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article",
+          "tokenAliases": {
+            "=Generic parameters": "=m0",
+            "=Name parameters": "=m2",
+            "=Pronouns": "=m4"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "tHrvAAMBPOurJOCia3JLWA==": {
+          "text": "Generic parameters",
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\""
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 106,
+      "col_beg": 10,
+      "line_end": 108,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\"",
+          "text": "Generic parameters"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "N0+EMgAb77FuLAO+c/yPhw==": {
+          "text": "Name parameters",
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\""
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 110,
+      "col_beg": 10,
+      "line_end": 112,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\"",
+          "text": "Name parameters"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "qy5OuoIf6pOyyAQ74A+ljA==": {
+          "text": "Pronouns",
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\""
+        }
+      },
+      "filepath": "src/pages/parameters.tsx",
+      "line_beg": 114,
+      "col_beg": 10,
+      "line_end": 116,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=Generic parameters}, {=Name parameters} and {=Pronouns} in FBT deep dive article\"",
+          "text": "Pronouns"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "+xpm+JqBytb8OP00Tw1i9w==": {
+          "text": "Plurals",
+          "desc": "Title of the plurals page"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 13,
+      "col_beg": 19,
+      "line_end": 13,
+      "col_end": 62,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Title of the plurals page",
+          "text": "Plurals"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "Rjw6U4fcatwLvekJnFk9Pw==": {
+          "text": "There is no item in the cart",
+          "desc": "Empty cart info"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 16,
+      "col_beg": 10,
+      "line_end": 16,
+      "col_end": 64,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Empty cart info",
+          "text": "There is no item in the cart"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "lgrhzbC/WKfneAaDmwFIkA==": {
+          "text": "There is {number} items in your shopping cart",
+          "desc": "Items in a cart info"
+        },
+        "3qasRyDuwO5KBqvyJ1of0w==": {
+          "text": "There is 1 item in your shopping cart",
+          "desc": "Items in a cart info"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 18,
+      "col_beg": 10,
+      "line_end": 24,
+      "col_end": 16,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "*": {
+            "desc": "Items in a cart info",
+            "text": "There is {number} items in your shopping cart"
+          },
+          "_1": {
+            "desc": "Items in a cart info",
+            "text": "There is 1 item in your shopping cart"
+          }
+        },
+        "m": [
+          {
+            "token": "number",
+            "type": 2,
+            "singular": true
+          }
+        ]
+      }
+    },
+    {
+      "hashToLeaf": {
+        "d3vA1ftP6gPK+DtZeO+hFQ==": {
+          "text": "Add to cart",
+          "desc": "Add to cart button"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 41,
+      "col_beg": 8,
+      "line_end": 41,
+      "col_end": 56,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Add to cart button",
+          "text": "Add to cart"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "oEGGyJolizHFP4n5AoNuWA==": {
+          "text": "More info",
+          "desc": "Infobox heading"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 44,
+      "col_beg": 22,
+      "line_end": 44,
+      "col_end": 57,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Infobox heading",
+          "text": "More info"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "dhmCtw6l1+sXHGgbUex7Bg==": {
+          "text": "Source code of this page",
+          "desc": "Text of a link in infobox"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 46,
+      "col_beg": 10,
+      "line_end": 46,
+      "col_end": 78,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Text of a link in infobox",
+          "text": "Source code of this page"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "EzjraO23uyA591dGtOY0sQ==": {
+          "text": "{=Plurals} in FBT deep dive article",
+          "desc": "Links to other article in infobox"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 49,
+      "col_beg": 8,
+      "line_end": 54,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Links to other article in infobox",
+          "text": "{=Plurals} in FBT deep dive article",
+          "tokenAliases": {
+            "=Plurals": "=m0"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "FPKx10AkFSMKu+6F9ffm0A==": {
+          "text": "Plurals",
+          "desc": "In the phrase: \"{=Plurals} in FBT deep dive article\""
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 50,
+      "col_beg": 10,
+      "line_end": 52,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"{=Plurals} in FBT deep dive article\"",
+          "text": "Plurals"
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "CssC6qGroykkOGlVJ9kX+w==": {
+          "text": "Official docs about {=Plurals}",
+          "desc": "Text of a link in infobox"
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 56,
+      "col_beg": 8,
+      "line_end": 61,
+      "col_end": 14,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "Text of a link in infobox",
+          "text": "Official docs about {=Plurals}",
+          "tokenAliases": {
+            "=Plurals": "=m2"
+          }
+        },
+        "m": []
+      }
+    },
+    {
+      "hashToLeaf": {
+        "Qis3+xS14DAO2WncJpjC+A==": {
+          "text": "Plurals",
+          "desc": "In the phrase: \"Official docs about {=Plurals}\""
+        }
+      },
+      "filepath": "src/pages/plurals.tsx",
+      "line_beg": 58,
+      "col_beg": 10,
+      "line_end": 60,
+      "col_end": 17,
+      "project": "",
+      "jsfbt": {
+        "t": {
+          "desc": "In the phrase: \"Official docs about {=Plurals}\"",
+          "text": "Plurals"
+        },
+        "m": []
+      }
+    }
+  ],
+  "childParentMappings": {
+    "7": 6,
+    "9": 8
+  }
+}

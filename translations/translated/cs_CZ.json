@@ -1,0 +1,537 @@
+{
+  "fb-locale": "cs_CZ",
+  "translations": {
+    "crI9gT2EdNV+mhv4K4edsw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Otevřít jazykové menu",
+          "variations": []
+        }
+      ]
+    },
+    "AgAyCUB3Re1YjbeK5f1dkg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Domů",
+          "variations": []
+        }
+      ]
+    },
+    "TsOj0iXGfNAy+nMCojiaXg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parametry",
+          "variations": []
+        }
+      ]
+    },
+    "Sx2GQHA+yFzaSztrs4xd3g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurál",
+          "variations": []
+        }
+      ]
+    },
+    "O4Bdy9aZPCzcwLm4iB/UAQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Otevřít hlavní menu",
+          "variations": []
+        }
+      ]
+    },
+    "3aF5BEM+q0U7fjcIXtoeig==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Jazyky",
+          "variations": []
+        }
+      ]
+    },
+    "1ZAh+hy0gkEKGk0l2myiBQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "FBT v Next.js",
+          "variations": []
+        }
+      ]
+    },
+    "/Tgfw8qI4ElgGDkr+EeEIg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "FBT je výkonný internacionalizační framework vyvinutý ve Facebooku. Cílem této stránky je ukázat jak FBT nainstalovat, nakonfigurovat a používat v projektu postaveném na Next.js a Typescriptu.",
+          "variations": []
+        }
+      ]
+    },
+    "yHUHwUcJ7WyS4WAIxi/qyg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Instalace",
+          "variations": []
+        }
+      ]
+    },
+    "+l42Qxcwv8Gr3jdc20yXLA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Přečtěte si prosím soubor {=README} tohoto projektu.",
+          "variations": []
+        }
+      ]
+    },
+    "D1xXG4RYaWvbe10Pmd9SvA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "README",
+          "variations": []
+        }
+      ]
+    },
+    "0sN33h0pMB2BosT8RCtaIQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Ukázka",
+          "variations": []
+        }
+      ]
+    },
+    "7bpKdPwm4jjb7OxZclBDrw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Použijte položky v navigačním menu, chcete-li vidět FBT v akci. Nezapomeňte si změnit jazyk kliknutím na ikonu zeměkoule v pravém horním rohu.",
+          "variations": []
+        }
+      ]
+    },
+    "iaAJg//A4DrpGzSSRllDRA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Neváhejte vylepšit současný překlad nebo přidat nový jazyk v {=Crowdin project}.",
+          "variations": []
+        }
+      ]
+    },
+    "MU0UOBV75+krm+yVwrjHfA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Crowdin projektu",
+          "variations": []
+        }
+      ]
+    },
+    "oEGGyJolizHFP4n5AoNuWA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Více informací",
+          "variations": []
+        }
+      ]
+    },
+    "dhmCtw6l1+sXHGgbUex7Bg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Zdrojový kód této stránky",
+          "variations": []
+        }
+      ]
+    },
+    "0CCkgmeOmdtkBPApLw5fQg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Deep dive into FBT",
+          "variations": []
+        }
+      ]
+    },
+    "ZaCoCoeXIg4+d/VUsXGsnw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Domovská stránka FBT",
+          "variations": []
+        }
+      ]
+    },
+    "W5AqqokMbn4PYvUo2+N3iA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Zdrojový kód FBT",
+          "variations": []
+        }
+      ]
+    },
+    "nQ2b21R+cds3L+I+9hbSGg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parametry",
+          "variations": []
+        }
+      ]
+    },
+    "Yw/zjhtEuZClLl4MF8SWLA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Obecné parametry",
+          "variations": []
+        }
+      ]
+    },
+    "4fpePMThgAW3hwRw3OgENw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Položka \"{itemName}\" byla přidána do nákupního košíku",
+          "variations": []
+        }
+      ]
+    },
+    "HidrdazeKx7pjF/xLJ8V/g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Název položky",
+          "variations": []
+        }
+      ]
+    },
+    "B259IaEabarrIgWJxOPfQQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Dejte položce nějaký název...",
+          "variations": []
+        }
+      ]
+    },
+    "oIkPIQ1swaLQ+uPwGgcyIg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Jména a zájmena",
+          "variations": []
+        }
+      ]
+    },
+    "wD0D0EPV/lcrB98PJHIZPg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} očekává její balíček",
+          "variations": []
+        }
+      ]
+    },
+    "R/+TTfHaIQkc+vMijx8HQg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} očekává jeho balíček",
+          "variations": []
+        }
+      ]
+    },
+    "pDaJHHYOWYcCyp9LmO5utQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{customerName} očekává jejich balíček",
+          "variations": []
+        }
+      ]
+    },
+    "dO060pO2VkQt3novEGpmfA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Jméno zákazníka",
+          "variations": []
+        }
+      ]
+    },
+    "jsl9rgAuHF6Cu36fT7hJEw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Dejte zákazníkovi nějaké jméno...",
+          "variations": []
+        }
+      ]
+    },
+    "EEl+2vEqsAmLpU5o9l7X+g==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Pohlaví",
+          "variations": []
+        }
+      ]
+    },
+    "B0PcZsG2IS21xdR4E8YENQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Muž",
+          "variations": []
+        }
+      ]
+    },
+    "3iU8L5FVtt9etM/PU75Omw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Žena",
+          "variations": []
+        }
+      ]
+    },
+    "VfvDibV5l6XEFe0TgFTngw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Neznámé",
+          "variations": []
+        }
+      ]
+    },
+    "QE/yyCeP1wLJz2eiJpkrsw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Více informací o této vlastnosti",
+          "variations": []
+        }
+      ]
+    },
+    "tnKqn9/uRFvY22YOgJvuQQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Oficiální dokumentace o {=Params} a {=Pronouns}",
+          "variations": []
+        }
+      ]
+    },
+    "RKdoiZFibdvS6x8KA3CZDQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Parametrech",
+          "variations": []
+        }
+      ]
+    },
+    "2AG+cAjtgVmnSDTUgoDcZg==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Zájmenech",
+          "variations": []
+        }
+      ]
+    },
+    "69tqAX/Sy2JrUAfDGl/0lQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{=Generic parameters}, {=Name parameters} a {=Pronouns} v FBT deep dive článku",
+          "variations": []
+        }
+      ]
+    },
+    "tHrvAAMBPOurJOCia3JLWA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Obecné parametry",
+          "variations": []
+        }
+      ]
+    },
+    "N0+EMgAb77FuLAO+c/yPhw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Jména",
+          "variations": []
+        }
+      ]
+    },
+    "qy5OuoIf6pOyyAQ74A+ljA==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Zájmena",
+          "variations": []
+        }
+      ]
+    },
+    "+xpm+JqBytb8OP00Tw1i9w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurál",
+          "variations": []
+        }
+      ]
+    },
+    "Rjw6U4fcatwLvekJnFk9Pw==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "V košíku nejsou žádné položky",
+          "variations": []
+        }
+      ]
+    },
+    "lgrhzbC/WKfneAaDmwFIkA==": {
+      "tokens": ["number"],
+      "types": [28],
+      "translations": [
+        {
+          "translation": "V košíku je {number} položek",
+          "variations": [24]
+        },
+        {
+          "translation": "V košíku jsou {number} položky",
+          "variations": [20]
+        },
+        {
+          "translation": "V košíku je {number} položek",
+          "variations": [12]
+        },
+        {
+          "translation": "V košíku je {number} položka",
+          "variations": [4]
+        }
+      ]
+    },
+    "3qasRyDuwO5KBqvyJ1of0w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "V košíku je {number} položka",
+          "variations": []
+        }
+      ]
+    },
+    "d3vA1ftP6gPK+DtZeO+hFQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Přidat do košíku",
+          "variations": []
+        }
+      ]
+    },
+    "EzjraO23uyA591dGtOY0sQ==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "{=Plurals} v \"FBT deep dive\" článku",
+          "variations": []
+        }
+      ]
+    },
+    "FPKx10AkFSMKu+6F9ffm0A==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurál",
+          "variations": []
+        }
+      ]
+    },
+    "CssC6qGroykkOGlVJ9kX+w==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Oficiální dokumentace o {=Plurals}",
+          "variations": []
+        }
+      ]
+    },
+    "Qis3+xS14DAO2WncJpjC+A==": {
+      "tokens": [],
+      "types": [],
+      "translations": [
+        {
+          "translation": "Plurálu",
+          "variations": []
+        }
+      ]
+    }
+  }
+}
